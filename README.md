@@ -56,11 +56,6 @@ Edit the Okta configuration in `src/main.js` to fill in your client ID and other
 ```
 cd bad-puns-tracker-client-vue
 npm install -g @vue/cli
-```
-
-Edit `src/main.js` and replace the Okta credentials with your own.
-
-```
 yarn
 yarn serve
 ```
